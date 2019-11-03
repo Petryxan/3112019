@@ -1,9 +1,8 @@
-{background: #3b803b22
 
-    
-
-
-}
 h1 {
     color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: chartreuse;
 }
